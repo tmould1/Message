@@ -73,3 +73,7 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Message/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Message/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Message/Intermediate/CachedAssetRegistry.bin
+Message/Saved/Autosaves/PackageRestoreData.json
